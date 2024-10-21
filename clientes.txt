@@ -1,0 +1,4 @@
+1 -> Anna -> Comercial
+2 -> Jose -> Residencial
+3 -> Peter -> Urbana
+4 -> fgdgd -> Rural
